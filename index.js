@@ -10,7 +10,7 @@
 	@ DikaArdnt [author]
 	@ Mhankbarbar
 	@ Nurutomo
-	@ Rashid
+	@ Muhamad Badru Wasih
 	@ ZeeoneOfc
 	@ Penyedia Module
 	@ And All Support
